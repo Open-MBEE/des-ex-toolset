@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<diagram version="5" type="Workflow" baseType="Activity Diagram" abbreviation="Workflow">
+    <toolbarConfiguration>
+        <baseCategory id="COMMON_ELEMENTS_DYNAMIC" parentCategoryID="COMMON_ELEMENTS_DYNAMIC" expandedByDefault="true"/>
+        <baseCategory id="ACTIVITY_DIAGRAM_ELEMENTS" parentCategoryID="ACTIVITY_DIAGRAM_ELEMENTS" expandedByDefault="true"/>
+        <category name="Workflow" id="action_category_1644593889168_861232_0" expandedByDefault="true">
+            <actions/>
+        </category>
+    </toolbarConfiguration>
+    <module name="UML_Standard_Profile.mdzip" location="C:\Program Files\Cameo Systems Modeler\profiles\UML_Standard_Profile.mdzip">
+        <root id="magicdraw_uml_standard_profile_v_0001"/>
+    </module>
+    <elementstyle name="OpaqueAction">
+        <PropertyVisitorAcceptor xmlns:xmi="http://www.omg.org/spec/XMI/20131001">
+            <mdElement elementClass="PropertyManager">
+                <mdElement elementClass="ChoiceProperty">
+                    <propertyID>OPAQUE_ACTION_DISPLAY_MODE</propertyID>
+                    <value>SHOW_ACTION_NAME</value>
+                    <choice xmi:value="SHOW_ACTION_NAME^SHOW_BODY"/>
+                    <index xmi:value="0"/>
+                </mdElement>
+            </mdElement>
+        </PropertyVisitorAcceptor>
+    </elementstyle>
+</diagram>
